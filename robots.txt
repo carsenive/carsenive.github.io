@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://carsenive.github.io/carsenive.txt.gz
+Sitemap: https://carsenive.github.io/app/carsenive.txt.gz
+Sitemap: https://carsenive.github.io/assets/carsenive.txt.gz
+Sitemap: https://carsenive.github.io/css/carsenive.txt.gz
+Sitemap: https://carsenive.github.io/includes/carsenive.txt.gz
+Sitemap: https://carsenive.github.io/item/carsenive.txt.gz
+Sitemap: https://carsenive.github.io/src/carsenive.txt.gz
